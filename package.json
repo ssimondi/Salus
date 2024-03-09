@@ -1,5 +1,5 @@
 {
-  "name": "@simondi/homebridge-salus",
+  "name": "@ssimondi/homebridge-salus",
   "version": "1.0",
   "description": "Homebridge plugin for Salus Thermostats in NA",
   "engines": {
